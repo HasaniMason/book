@@ -5,7 +5,7 @@
 [![Contribute](https://img.shields.io/badge/Contribute-Click%20Here-lightgrey.svg)](http://contribute.unrestrictedcoding.com/)
 
 # Book
-The Open Source, A to Z, Unrestricted Coding Book
+The Open, A to Z, Unrestricted Coding Book
 
 ##  Communication
 All communication for this project is done on our Slack Team. Please join by visiting [This Link](https://uc-slack.herokuapp.com).
